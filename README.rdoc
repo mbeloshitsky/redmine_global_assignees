@@ -1,0 +1,4 @@
+This plugin allows to assign users to issue from global user list.
+
+If assigned user do not belong to project members it automatically added with
+"Developer" role.
